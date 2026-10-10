@@ -1,0 +1,5 @@
+refs/private/
+__pycache__/
+*.pyc
+pack/
+*.mcpack
