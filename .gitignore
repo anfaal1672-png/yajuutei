@@ -1,5 +1,6 @@
+.cache/
 refs/private/
 __pycache__/
 *.pyc
-pack/
-*.mcpack
+.pytest_cache/
+build/
